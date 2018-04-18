@@ -1,4 +1,8 @@
-
+/**
+ * Class that defines a Seat object, Can add customers and show if a seat is taken.
+ * @version 4.18.2018
+ * @author 
+ */
 public class Seat 
 {
 
