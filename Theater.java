@@ -33,5 +33,12 @@ public class Theater
 	public void addShow(Show show){
 		
 	}
+	
+	/**
+	* Print method that prints theater name and all the shows and show times at said instance
+	*/
+	public void printTheaterDetails(){
+		
+	}
 
 }
