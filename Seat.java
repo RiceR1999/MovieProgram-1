@@ -5,23 +5,26 @@
  */
 public class Seat 
 {
-
+  private boolean taken;
+  private Customer theCustomer;
+        /**
+	* Constructor for seat class
+	*/
 	public Seat() 
 	{
 		// TODO Auto-generated constructor stub
 	}
-boolean taken;
-taken = false;
-Customer theCustomer;
+
 	
-	/*
+	/**
 	* Method that checks if a seat is taken.
+	* @return taken
 	*/
 	public boolean isTaken()
 	{
 		return taken;
 	}
-	/*
+	/**
 	* Method that adds cutomer to a seat.
 	*@param Customer
 	*/
@@ -30,7 +33,7 @@ Customer theCustomer;
 		theCustomer = c;
 		taken = true;
 	}
-	/*
+	/**
 	* Method that gets customer info.
 	*@param Customer
 	*/
