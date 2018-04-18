@@ -7,6 +7,7 @@ public class Seat
 		// TODO Auto-generated constructor stub
 	}
 boolean taken;
+taken = false;
 Customer theCustomer;
 	
 	/*
@@ -22,6 +23,7 @@ Customer theCustomer;
 	public void addCustomer(Customer c)
 	{
 		theCustomer = c;
+		taken = true;
 	}
 	/*
 	* Method that gets customer info.
