@@ -5,12 +5,13 @@
 */
 public class CinemaBookingSystem 
 {
-
+    private ArrayList<Theater> theaters;
+	
 	public CinemaBookingSystem() 
 	{
 		//constructor
 	}
-	/*
+	/**
 	* Method responisble for displaying Theaters, Shows, and taking user input.
 	*/
 	public void start()
