@@ -25,5 +25,13 @@ public class Theater
 	public String getTheaterName(){
 		
 	}
+	
+	/**
+	* Method that adds a show to shows array
+	* @param show
+	*/
+	public void addShow(Show show){
+		
+	}
 
 }
