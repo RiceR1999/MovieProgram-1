@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /**
 * Class that defines a theater object
 * @version 4.18.2018
