@@ -40,3 +40,10 @@ public void fillRow(ArrayList given)
 {
 	
 }
+/**
+* Method that prints time, date, and show name to user.
+*/
+public void getInfo()
+{
+	
+}
