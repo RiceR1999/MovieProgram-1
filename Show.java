@@ -27,7 +27,7 @@ public class Show
 	* @param showName
 	* @param capacity
 	*/
-	public Show(int time,int day,int month,int year,int showName,int capacity) 
+	public Show(int time,int day,int month,int year,String showName,int capacity) 
 	{
 		// TODO Auto-generated constructor stub
 	}
