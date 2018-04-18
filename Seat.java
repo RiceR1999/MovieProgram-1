@@ -23,6 +23,7 @@ Customer theCustomer;
 	}
 	/*
 	* Method that adds cutomer to a seat.
+	*@param Customer
 	*/
 	public void addCustomer(Customer c)
 	{
@@ -31,6 +32,7 @@ Customer theCustomer;
 	}
 	/*
 	* Method that gets customer info.
+	*@param Customer
 	*/
 	public void getCustomerInfo(Customer c)
 	{
