@@ -1,8 +1,17 @@
 
-public class Theater {
+public class Theater 
+{
 
-	public Theater() {
-		pie
+	public Theater() 
+	{
+
 	}
-
+	/*
+	* Method Responsibe for displaying show information
+	* and taking using input.
+	/*
+	public void start()
+	{
+		
+	}
 }
