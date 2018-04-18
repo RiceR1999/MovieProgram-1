@@ -12,9 +12,19 @@ public class Theater
 	
 	/**
 	* Constructor for theater class
+	* @param theaterName
 	*/
-	public Theater() 
+	public Theater(String theaterName) 
 	{
 
 	}
+	
+	/**
+	* Accessor method that gets theater name
+	* @return theaterName
+	*/
+	public String getTheaterName(){
+		
+	}
+
 }
